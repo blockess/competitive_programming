@@ -2,4 +2,4 @@
 
 ## Problems by site
 
-* [LeetCode]('leetcode/README.md')
+* [LeetCode](leetcode/)
